@@ -1,8 +1,10 @@
 <pre>
 **Stone Paper Scissors Game Microservice**
 
-This is a Spring Boot microservice that implements the game of Stone Paper Scissors. The microservice allows Player 1 to choose their move (stone, paper, or scissors)
-either as a path variable in a GET request or as a JSON object in a POST request. The microservice generates a random move for Player 2 and determines the winner 
+This is a Spring Boot microservice that implements the game of Stone Paper Scissors. 
+The microservice allows Player 1 to choose their move (stone, paper, or scissors)
+either as a path variable in a GET request or as a JSON object in a POST request. 
+The microservice generates a random move for Player 2 and determines the winner 
 based on the game's rules.
 
 **Usage**
